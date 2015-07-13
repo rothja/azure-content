@@ -23,6 +23,8 @@ For more information about how to create tables in markdown, see:
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables
 - http://michelf.ca/projects/php-markdown/extra/#table
 
+Note that if you are using MarkdownPad, you will not see a preview of the table unless your Markdown Processor supports it. Go to **Tools** | **Options** | **Markdown** and change the **Markdown Processor** to something like "Markdown (Extra)". 
+
 ###Contributors' Guide Links
 
 - [Overview article](./../README.md)

@@ -3,7 +3,7 @@
 	description="This topic refers to resources created with the classic deployment model, and provides general guidance for securing SQL Server running in an Azure Virtual Machine."
 	services="virtual-machines-windows"
 	documentationCenter="na"
-	authors="carlrabeler"
+	authors="rothja"
 	manager="jhubbard"
    editor=""    
    tags="azure-service-management"/>
@@ -14,7 +14,7 @@
 	ms.tgt_pltfrm="vm-windows-sql-server"
 	ms.workload="infrastructure-services"
 	ms.date="03/23/2016"
-	ms.author="carlrab" />
+	ms.author="jroth" />
 
 # Security Considerations for SQL Server in Azure Virtual Machines
 

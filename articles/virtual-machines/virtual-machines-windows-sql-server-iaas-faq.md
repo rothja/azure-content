@@ -67,7 +67,7 @@ This topic provides answers to some of the most common questions about running [
 
 For an overview of SQL Server on Azure Virtual Machines, watch the video [Azure VM is the best platform for SQL Server 2016](https://channel9.msdn.com/Events/DataDriven/SQLServer2016/Azure-VM-is-the-best-platform-for-SQL-Server-2016). You can also get a good introduction in the topic, [SQL Server on Azure Virtual Machines overview](virtual-machines-windows-sql-server-iaas-overview.md).
 
-Other resources include:
+Other resources include: 
 
 - [Provision a SQL Server virtual machine in the Azure Portal](virtual-machines-windows-portal-sql-server-provision.md)
 - [Migrating a Database to SQL Server on an Azure VM](virtual-machines-windows-migrate-sql.md)

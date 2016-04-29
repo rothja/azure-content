@@ -14,7 +14,7 @@
 	ms.topic="article"
 	ms.tgt_pltfrm="vm-windows-sql-server"
 	ms.workload="infrastructure-services"
-	ms.date="01/22/2016"
+	ms.date="04/29/2016"
 	ms.author="jroth"/>
 
 # Use Azure Premium Storage with SQL Server on Virtual Machines
